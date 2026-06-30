@@ -1,8 +1,7 @@
-# 🚀 Day 1 – Start of the Journey
-
 ## Project
 
-**Robot Control Station**
+# Robot Control Station
+A Qt/QML-based industrial robot control platform built to explore software engineering, Clean Architecture, MVVM, and modern industrial software development practices.
 
 A long-term learning project to practice and apply:
 
