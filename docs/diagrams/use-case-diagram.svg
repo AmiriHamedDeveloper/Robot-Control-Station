@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="1499px" preserveAspectRatio="none" style="width:445px;height:1499px;" version="1.1" viewBox="0 0 445 1499" width="445px" zoomAndPan="magnify"><defs><filter height="300%" id="fixx4o5d8vxom" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[c94baddab362f36c3dcd426fe881831e]
+cluster Robot Control Station--><rect fill="#FFFFFF" filter="url(#fixx4o5d8vxom)" height="1353" style="stroke: #000000; stroke-width: 1.5;" width="229" x="205" y="24.5"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="169" x="235" y="39.4951">Robot Control Station</text><ellipse cx="319.4465" cy="1063.5893" fill="#FEFECE" filter="url(#fixx4o5d8vxom)" rx="78.4465" ry="18.0893" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="127" x="255.9465" y="1068.2377">Connect To Robot</text><ellipse cx="319.5638" cy="560.3128" fill="#FEFECE" filter="url(#fixx4o5d8vxom)" rx="94.5638" ry="21.3128" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="164" x="237.5638" y="564.9612">Disconnect From Robot</text><ellipse cx="319.3318" cy="1275.3664" fill="#FEFECE" filter="url(#fixx4o5d8vxom)" rx="92.3318" ry="20.8664" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="159" x="239.8318" y="1280.0148">Configure Connections</text><ellipse cx="319.4543" cy="1202.2909" fill="#FEFECE" filter="url(#fixx4o5d8vxom)" rx="69.4543" ry="16.2909" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="105" x="266.9543" y="1206.9393">View Telemetry</text><ellipse cx="319.4395" cy="634.5879" fill="#FEFECE" filter="url(#fixx4o5d8vxom)" rx="75.9395" ry="17.5879" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="121" x="258.9395" y="639.2363">View Sensor Data</text><ellipse cx="319.4883" cy="705.5977" fill="#FEFECE" filter="url(#fixx4o5d8vxom)" rx="80.9883" ry="18.5977" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="133" x="252.9883" y="710.2461">View Battery Status</text><ellipse cx="319.3007" cy="773.5601" fill="#FEFECE" filter="url(#fixx4o5d8vxom)" rx="60.8007" ry="14.5601" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="82" x="278.3007" y="778.2086">View Alarms</text><ellipse cx="319.3592" cy="842.3718" fill="#FEFECE" filter="url(#fixx4o5d8vxom)" rx="84.8592" ry="19.3718" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="142" x="248.3592" y="847.0203">View Camera Stream</text><ellipse cx="319.6147" cy="919.6229" fill="#FEFECE" filter="url(#fixx4o5d8vxom)" rx="98.6147" ry="22.1229" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="173" x="233.1147" y="924.2714">Control Robot Movement</text><ellipse cx="319.5637" cy="993.5127" fill="#FEFECE" filter="url(#fixx4o5d8vxom)" rx="73.0637" ry="17.0127" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="114" x="262.5637" y="998.1612">Emergency Stop</text><ellipse cx="319.2932" cy="79.4586" fill="#FEFECE" filter="url(#fixx4o5d8vxom)" rx="85.2932" ry="19.4586" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="143" x="247.7932" y="84.1071">Change Robot Mode</text><ellipse cx="319.3489" cy="1133.2698" fill="#FEFECE" filter="url(#fixx4o5d8vxom)" rx="71.8489" ry="16.7698" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="111" x="263.8489" y="1137.9182">Send Command</text><ellipse cx="319.466" cy="149.4932" fill="#FEFECE" filter="url(#fixx4o5d8vxom)" rx="62.966" ry="14.9932" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="88" x="275.466" y="154.1416">Start Mission</text><ellipse cx="319.6107" cy="215.3221" fill="#FEFECE" filter="url(#fixx4o5d8vxom)" rx="67.1107" ry="15.8221" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="99" x="270.1107" y="219.9706">Pause Mission</text><ellipse cx="319.5637" cy="283.5127" fill="#FEFECE" filter="url(#fixx4o5d8vxom)" rx="73.0637" ry="17.0127" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="114" x="262.5637" y="288.1612">Resume Mission</text><ellipse cx="319.6672" cy="351.6334" fill="#FEFECE" filter="url(#fixx4o5d8vxom)" rx="68.6672" ry="16.1334" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="103" x="268.1672" y="356.2819">Cancel Mission</text><ellipse cx="319.5454" cy="419.6091" fill="#FEFECE" filter="url(#fixx4o5d8vxom)" rx="71.0454" ry="16.6091" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="109" x="265.0454" y="424.2575">Record Session</text><ellipse cx="319.4543" cy="487.2909" fill="#FEFECE" filter="url(#fixx4o5d8vxom)" rx="69.4543" ry="16.2909" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="105" x="266.9543" y="491.9393">Replay Session</text><ellipse cx="319.2756" cy="1346.5236" fill="#FEFECE" filter="url(#fixx4o5d8vxom)" rx="60.2756" ry="14.5236" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="81" x="278.7756" y="1351.1721">Export Logs</text><!--MD5=[2571bb1592dc874a255a7701a0171bbf]
+entity Operator--><ellipse cx="83.5" cy="603.5" fill="#FEFECE" filter="url(#fixx4o5d8vxom)" rx="8" ry="8" style="stroke: #A80036; stroke-width: 1.5;"/><path d="M83.5,611.5 L83.5,638.5 M70.5,619.5 L96.5,619.5 M83.5,638.5 L70.5,653.5 M83.5,638.5 L96.5,653.5 " fill="none" filter="url(#fixx4o5d8vxom)" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="61" x="53" y="671.9951">Operator</text><!--MD5=[62529e7d5259bf274c3bf3e446350d88]
+entity Administrator--><ellipse cx="83.5" cy="1301.5" fill="#FEFECE" filter="url(#fixx4o5d8vxom)" rx="8" ry="8" style="stroke: #A80036; stroke-width: 1.5;"/><path d="M83.5,1309.5 L83.5,1336.5 M70.5,1317.5 L96.5,1317.5 M83.5,1336.5 L70.5,1351.5 M83.5,1336.5 L96.5,1351.5 " fill="none" filter="url(#fixx4o5d8vxom)" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="91" x="38" y="1369.9951">Administrator</text><!--MD5=[c2d4a440eb64f59882868a934027a87f]
+entity Maintenance--><ellipse cx="83.5" cy="1417.5" fill="#FEFECE" filter="url(#fixx4o5d8vxom)" rx="8" ry="8" style="stroke: #A80036; stroke-width: 1.5;"/><path d="M83.5,1425.5 L83.5,1452.5 M70.5,1433.5 L96.5,1433.5 M83.5,1452.5 L70.5,1467.5 M83.5,1452.5 L96.5,1467.5 " fill="none" filter="url(#fixx4o5d8vxom)" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="155" x="6" y="1485.9951">Maintenance Engineer</text><!--MD5=[83498722a5683b7648ba900938d0649d]
+entity Firmware--><ellipse cx="83.5" cy="953.5" fill="#FEFECE" filter="url(#fixx4o5d8vxom)" rx="8" ry="8" style="stroke: #A80036; stroke-width: 1.5;"/><path d="M83.5,961.5 L83.5,988.5 M70.5,969.5 L96.5,969.5 M83.5,988.5 L70.5,1003.5 M83.5,988.5 L96.5,1003.5 " fill="none" filter="url(#fixx4o5d8vxom)" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="108" x="29.5" y="1021.9951">Robot Firmware</text><!--MD5=[b5637150c7f50eb6d60d20c980ef7338]
+entity RemoteClient--><ellipse cx="83.5" cy="1069.5" fill="#FEFECE" filter="url(#fixx4o5d8vxom)" rx="8" ry="8" style="stroke: #A80036; stroke-width: 1.5;"/><path d="M83.5,1077.5 L83.5,1104.5 M70.5,1085.5 L96.5,1085.5 M83.5,1104.5 L70.5,1119.5 M83.5,1104.5 L96.5,1119.5 " fill="none" filter="url(#fixx4o5d8vxom)" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="98" x="34.5" y="1137.9951">Remote Client</text><!--MD5=[241b36de05534b6660b3ddf6e8766aa9]
+entity Broker--><ellipse cx="83.5" cy="1185.5" fill="#FEFECE" filter="url(#fixx4o5d8vxom)" rx="8" ry="8" style="stroke: #A80036; stroke-width: 1.5;"/><path d="M83.5,1193.5 L83.5,1220.5 M70.5,1201.5 L96.5,1201.5 M83.5,1220.5 L70.5,1235.5 M83.5,1220.5 L96.5,1235.5 " fill="none" filter="url(#fixx4o5d8vxom)" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="91" x="38" y="1253.9951">MQTT Broker</text><!--MD5=[4452bdd52496054c717d2ab25f29372c]
+link Operator to UC1--><path d="M95.06,675.33 C120.54,773.31 184.28,1014.66 197,1027.5 C209.74,1040.36 226.84,1048.67 244.18,1054.03 " fill="none" id="Operator-&gt;UC1" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="249.07,1055.46,241.5726,1049.0733,244.275,1054.043,239.3054,1056.7453,249.07,1055.46" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[9abe70cf0fbb5404e7770ccabd4e9d58]
+link Operator to UC2--><path d="M114.14,625.13 C150.21,613.72 212.02,594.17 258.24,579.56 " fill="none" id="Operator-&gt;UC2" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="263.23,577.98,253.4437,576.8716,258.4614,579.4836,255.8495,584.5013,263.23,577.98" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[1ab1ff2fdd4aa4a2ee9f3ab29d3067cd]
+link Operator to UC4--><path d="M96.68,675.28 C113.1,731.42 142.42,835.89 161,926.5 C171.88,979.55 161.32,1126.77 197,1167.5 C210.07,1182.42 229.04,1191.17 248.13,1196.24 " fill="none" id="Operator-&gt;UC4" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="252.98,1197.45,245.2021,1191.4081,248.1259,1196.2508,243.2833,1199.1746,252.98,1197.45" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[8662f48182914385b15bafe0c2224f6d]
+link Operator to UC5--><path d="M114.14,634.5 C145.22,634.5 195.41,634.5 238.27,634.5 " fill="none" id="Operator-&gt;UC5" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="243.46,634.5,234.46,630.5,238.46,634.5,234.46,638.5,243.46,634.5" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[1580d4c8fb999cbca6a726b717cbb41b]
+link Operator to UC6--><path d="M114.07,643.82 C136.74,650.94 168.82,660.94 197,669.5 C218.83,676.13 242.9,683.29 263.83,689.47 " fill="none" id="Operator-&gt;UC6" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="268.8,690.94,261.3026,684.5533,264.005,689.523,259.0354,692.2253,268.8,690.94" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[9b906951b443171ffefaf10995590d0f]
+link Operator to UC7--><path d="M114.15,670.96 C135.02,694.34 164.87,723.57 197,741.5 C216.93,752.62 240.86,759.99 262.19,764.83 " fill="none" id="Operator-&gt;UC7" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="267.27,765.94,259.3357,760.105,262.3861,764.869,257.6221,767.9193,267.27,765.94" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[54cb545d16019927bd35091cdd10d715]
+link Operator to UC8--><path d="M101.4,675.34 C119.52,714.25 151.9,771.76 197,805.5 C211.36,816.24 228.87,823.9 246.07,829.34 " fill="none" id="Operator-&gt;UC8" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="250.91,830.81,243.4653,824.362,246.1268,829.3536,241.1351,832.0151,250.91,830.81" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[01f7ab1ca67267bfb71226209a4ed860]
+link Operator to UC9--><path d="M92.6,675.24 C105.43,729.4 135.57,824.62 197,879.5 C208.93,890.16 223.77,897.99 238.94,903.73 " fill="none" id="Operator-&gt;UC9" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="243.65,905.45,236.5722,898.6013,238.9544,903.7321,233.8236,906.1143,243.65,905.45" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[709cdbbb05292660a6849ab746e14474]
+link Operator to UC10--><path d="M86.95,675.18 C93.28,743.59 115.96,881.7 197,958.5 C210.84,971.61 229.27,979.86 247.58,985.03 " fill="none" id="Operator-&gt;UC10" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="252.74,986.4,245.0723,980.2189,247.9084,985.1135,243.0138,987.9496,252.74,986.4" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[88b2a7000959e56317327be5f5a4383f]
+link Operator to UC11--><path d="M88.08,593.72 C98.49,484.14 132.22,186.8 197,116.5 C208.31,104.23 223.55,95.98 239.4,90.45 " fill="none" id="Operator-&gt;UC11" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="244.34,88.82,234.5395,87.8448,239.5923,90.3883,237.0488,95.4411,244.34,88.82" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[8f94c52c411787728b324bfb6275383f]
+link Operator to UC12--><path d="M95.92,675.44 C111.47,731.78 139.8,836.47 161,926.5 C178.9,1002.52 143.86,1041.27 197,1098.5 C210.04,1112.54 228.31,1121.08 246.73,1126.23 " fill="none" id="Operator-&gt;UC12" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="251.93,1127.59,244.2407,1121.4357,247.0939,1126.3203,242.2093,1129.1735,251.93,1127.59" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[2c24131614e2a15c13ab2bc709404a12]
+link Operator to UC13--><path d="M89.31,593.67 C101.9,493.69 138.9,240.43 197,181.5 C211.75,166.54 232.61,158.3 252.88,153.85 " fill="none" id="Operator-&gt;UC13" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="258.02,152.8,248.396,150.7073,253.1238,153.8135,250.0176,158.5413,258.02,152.8" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[f0e4b05956a809e5e15b65513936f381]
+link Operator to UC14--><path d="M84.1,593.94 C85.63,515.68 100.49,343.25 197,248.5 C211.38,234.38 231.16,226.15 250.58,221.4 " fill="none" id="Operator-&gt;UC14" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="255.51,220.27,245.8394,218.4045,250.639,221.3985,247.645,226.198,255.51,220.27" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[d99befe4049f297396882475a321017a]
+link Operator to UC15--><path d="M87.25,593.8 C94.01,526.47 117.3,391.94 197,317.5 C210.75,304.65 228.96,296.6 247.09,291.57 " fill="none" id="Operator-&gt;UC15" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="252.19,290.23,242.4681,288.6536,247.3548,291.5032,244.5052,296.3899,252.19,290.23" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[ab1cd2fd100f4aed21153806f7edc9d0]
+link Operator to UC16--><path d="M91.83,593.63 C103.91,538.3 133.31,440.21 197,385.5 C212.32,372.34 232.36,364.25 251.74,359.29 " fill="none" id="Operator-&gt;UC16" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="256.65,358.09,246.9581,356.3385,251.7926,359.2758,248.8554,364.1103,256.65,358.09" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[332d7542323ddfb284fe9cbc3148ff34]
+link Operator to UC17--><path d="M99.47,593.76 C116.74,552.4 149.06,489.48 197,453.5 C212.99,441.5 233.02,433.74 252.18,428.71 " fill="none" id="Operator-&gt;UC17" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="257.03,427.49,247.3239,425.8191,252.1827,428.7161,249.2857,433.5748,257.03,427.49" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[45476a033f1ac75760a24cf71c2306aa]
+link Operator to UC18--><path d="M114.07,595.84 C134.8,571.24 164.52,540.54 197,521.5 C215.29,510.78 237.12,503.3 257.2,498.15 " fill="none" id="Operator-&gt;UC18" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="262.26,496.89,252.5633,495.1654,257.4059,498.0892,254.4821,502.9319,262.26,496.89" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[f3c80b99e9d3ffb35d4fa1a7f40c8f9d]
+link Administrator to UC3--><path d="M129.06,1321.64 C163.33,1313.3 211.26,1301.62 250.33,1292.1 " fill="none" id="Administrator-&gt;UC3" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="255.54,1290.84,245.8481,1289.0885,250.6826,1292.0258,247.7454,1296.8603,255.54,1290.84" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[17745c89db8db97d558b8ba338cb41be]
+link Administrator to UC19--><path d="M129.06,1335.17 C164.72,1337.3 215.19,1340.32 255.06,1342.7 " fill="none" id="Administrator-&gt;UC19" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="260.37,1343.02,251.6265,1338.4867,255.379,1342.7197,251.146,1346.4722,260.37,1343.02" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[2d5e1ca6a8826279d1283ab358d422b0]
+link Maintenance to UC19--><path d="M161.12,1415.1 C202.92,1396.88 252.55,1375.25 284.74,1361.21 " fill="none" id="Maintenance-&gt;UC19" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="289.36,1359.2,279.5114,1359.1315,284.7769,1361.1988,282.7095,1366.4644,289.36,1359.2" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[f86709cba9592f2345009043e9aecd64]
+link Firmware to UC1--><path d="M137.7,1005.8 C156.34,1013 177.49,1020.89 197,1027.5 C218.7,1034.85 242.86,1042.18 263.87,1048.29 " fill="none" id="Firmware-&gt;UC1" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="268.87,1049.73,261.3326,1043.3907,264.0662,1048.3432,259.1137,1051.0768,268.87,1049.73" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[2d4199ee10f80ce2f95fdf9075fa1ebf]
+link Broker to UC4--><path d="M129.06,1213.83 C162.31,1211.84 208.43,1209.09 246.84,1206.79 " fill="none" id="Broker-&gt;UC4" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="251.96,1206.48,242.7465,1203,246.9681,1206.7652,243.2029,1210.9869,251.96,1206.48" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[3322013c1e4353f1dfe551a8d6b4d5fc]
+link RemoteClient to UC12--><path d="M132.7,1107.3 C167.27,1112.17 214.27,1118.8 252.35,1124.17 " fill="none" id="RemoteClient-&gt;UC12" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="257.42,1124.89,249.0698,1119.6675,252.4694,1124.1889,247.948,1127.5885,257.42,1124.89" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[dec57889ae6854292cd2a045348526ba]
+@startuml
+left to right direction
+
+actor Operator
+actor Administrator
+actor "Maintenance Engineer" as Maintenance
+actor "Robot Firmware" as Firmware
+actor "Remote Client" as RemoteClient
+actor "MQTT Broker" as Broker
+
+rectangle "Robot Control Station" {
+
+  usecase "Connect To Robot" as UC1
+  usecase "Disconnect From Robot" as UC2
+  usecase "Configure Connections" as UC3
+
+  usecase "View Telemetry" as UC4
+  usecase "View Sensor Data" as UC5
+  usecase "View Battery Status" as UC6
+  usecase "View Alarms" as UC7
+  usecase "View Camera Stream" as UC8
+
+  usecase "Control Robot Movement" as UC9
+  usecase "Emergency Stop" as UC10
+  usecase "Change Robot Mode" as UC11
+  usecase "Send Command" as UC12
+
+  usecase "Start Mission" as UC13
+  usecase "Pause Mission" as UC14
+  usecase "Resume Mission" as UC15
+  usecase "Cancel Mission" as UC16
+
+  usecase "Record Session" as UC17
+  usecase "Replay Session" as UC18
+  usecase "Export Logs" as UC19
+}
+
+Operator - -> UC1
+Operator - -> UC2
+Operator - -> UC4
+Operator - -> UC5
+Operator - -> UC6
+Operator - -> UC7
+Operator - -> UC8
+Operator - -> UC9
+Operator - -> UC10
+Operator - -> UC11
+Operator - -> UC12
+Operator - -> UC13
+Operator - -> UC14
+Operator - -> UC15
+Operator - -> UC16
+Operator - -> UC17
+Operator - -> UC18
+
+Administrator - -> UC3
+Administrator - -> UC19
+
+Maintenance - -> UC19
+
+Firmware - -> UC1
+Broker - -> UC4
+RemoteClient - -> UC12
+
+@enduml
+
+PlantUML version 1.2020.02(Sun Mar 01 13:52:07 GMT+03:30 2020)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Java Version: 25.0.3+9-2-22.04.2-Ubuntu
+Operating System: Linux
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

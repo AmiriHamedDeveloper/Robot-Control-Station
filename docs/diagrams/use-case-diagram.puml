@@ -1,0 +1,65 @@
+@startuml
+left to right direction
+
+actor Operator
+actor Administrator
+actor "Maintenance Engineer" as Maintenance
+actor "Robot Firmware" as Firmware
+actor "Remote Client" as RemoteClient
+actor "MQTT Broker" as Broker
+
+rectangle "Robot Control Station" {
+
+  usecase "Connect To Robot" as UC1
+  usecase "Disconnect From Robot" as UC2
+  usecase "Configure Connections" as UC3
+
+  usecase "View Telemetry" as UC4
+  usecase "View Sensor Data" as UC5
+  usecase "View Battery Status" as UC6
+  usecase "View Alarms" as UC7
+  usecase "View Camera Stream" as UC8
+
+  usecase "Control Robot Movement" as UC9
+  usecase "Emergency Stop" as UC10
+  usecase "Change Robot Mode" as UC11
+  usecase "Send Command" as UC12
+
+  usecase "Start Mission" as UC13
+  usecase "Pause Mission" as UC14
+  usecase "Resume Mission" as UC15
+  usecase "Cancel Mission" as UC16
+
+  usecase "Record Session" as UC17
+  usecase "Replay Session" as UC18
+  usecase "Export Logs" as UC19
+}
+
+Operator --> UC1
+Operator --> UC2
+Operator --> UC4
+Operator --> UC5
+Operator --> UC6
+Operator --> UC7
+Operator --> UC8
+Operator --> UC9
+Operator --> UC10
+Operator --> UC11
+Operator --> UC12
+Operator --> UC13
+Operator --> UC14
+Operator --> UC15
+Operator --> UC16
+Operator --> UC17
+Operator --> UC18
+
+Administrator --> UC3
+Administrator --> UC19
+
+Maintenance --> UC19
+
+Firmware --> UC1
+Broker --> UC4
+RemoteClient --> UC12
+
+@enduml
